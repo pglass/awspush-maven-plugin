@@ -1,6 +1,6 @@
 Author
     Paul Glass
-    paul.glass@pearson.com
+    pnglass@gmail.com
 
 Overview
     This is a Maven plugin that will deploy a local file (e.g. a WAR file)
