@@ -30,7 +30,7 @@ Usage
             <awsAccessKey>12345</awsAccessKey>
             <awsSecretKey>abcde</awsSecretKey>
             <filepath>${basedir}/standalone.war</filepath>
-            <s3BucketName>elasticbeanstalk-us-east-1-114320312179</s3BucketName>
+            <s3BucketName>myS3bucket</s3BucketName>
             <s3FileKey>ROOT.war</s3FileKey>
             <applicationName>beanstalkApp</applicationName>
             <environmentName>beanstalkEnv</environmentName>
