@@ -11,11 +11,12 @@ Overview
 
 Usage
     Here's a sample plugin section which includes all possible tags.
+    There are only snapshot builds for now.
 
     <plugin>
         <groupId>com.pearson.tn8</groupId>
         <artifactId>awspush-maven-plugin</artifactId>
-        <version>1.0</version>
+        <version>1.0-SNAPSHOT</version>
         <executions>
             <execution>
                 <phase>install</phase>
